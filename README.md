@@ -22,7 +22,7 @@ Grâce à des techniques avancées de **traitement automatique du langage nature
 Le corpus provient de deux publications de l’Insee :
 
 - **Insee Première** (2011–2025) : publications courtes sur des sujets d’actualité
-- - insee_premier.csv
+- - insee_premiere.csv
 - **Insee Analyse** (2010–2025) : articles axés sur la méthodologie
 - - insee_analyse.csv
 
