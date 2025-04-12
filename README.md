@@ -69,7 +69,7 @@ Chaque publication contient :
 
 - Une **structure lexicale cohérente** par grands domaines analytiques
 - Un **développement des analyses locales** sans abandon des thématiques traditionnelles
-- Une **généralisation transversale** de l’usage des concepts statistiques distributionelles (ex. : *décile*)
+- Une **généralisation transversale** de l’usage des concepts statistiques distributionels (ex. : *décile*)
 
 ---
 
