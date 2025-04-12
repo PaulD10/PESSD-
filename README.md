@@ -24,7 +24,8 @@ Le corpus provient de deux publications de l’Insee :
 - **Insee Première** (2011–2025) : publications courtes sur des sujets d’actualité
 - - insee_premiere.csv
 - **Insee Analyse** (2010–2025) : publications courtes et documents de travail
-- - insee_analyse.csv
+- - insee_analyse.csv*
+    
 Les données accessibles sur le github sont tronquées par rapport aux données totales faute de place disponible sur github.
 
 Chaque publication contient :
