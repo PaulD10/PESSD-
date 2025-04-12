@@ -36,6 +36,10 @@ Chaque publication contient :
 
 ## Méthodologie
 **A. Statistiques descriptives**
+1. **Nombre d'articles**
+2. **Distribution thématique des publications**
+3. **Evolution temporelle**
+   
 **B. NLP**
 
 1. **Prétraitement linguistique** :  
@@ -52,7 +56,8 @@ Chaque publication contient :
    - Méthode de Procrustes orthogonale  
    - Suivi des trajectoires sémantiques entre périodes
 
-4. **Visualisation**  
+**C. Visualisation**
+4. **Cartographie lexicale**  
    - Réduction de dimension avec **PaCMAP**  
    - Clustering lexical et cartographie thématique
 
