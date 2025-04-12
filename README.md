@@ -58,7 +58,8 @@ Chaque publication contient :
    - Suivi des trajectoires sémantiques entre périodes
 
 **C. Visualisation**
-4. **Cartographie lexicale**  
+
+1. **Cartographie lexicale**  
    - Réduction de dimension avec **PaCMAP**  
    - Clustering lexical et cartographie thématique
 
