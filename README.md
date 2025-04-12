@@ -78,6 +78,6 @@ Chaque publication contient :
 Le notebook à télécharger contient le code ayant déja tourné, le notebook "clean" permet de montrer le code sur github. Ce problème vient d'une icompatibilité entre les widgets de google colab et github. 
 Pour faire tourner le notebook, il suffit de mettre les deux .csv dans le même fichier que le notebook intitulé "content".
 
-[Notebook_Pessd.ipynb]((https://github.com/PaulD10/PESSD-/blob/main/notebook_PESSD.ipynb))
+[Notebook_Pessd.ipynb](https://github.com/PaulD10/PESSD-/blob/main/notebook_PESSD.ipynb)
 
 
