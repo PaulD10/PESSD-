@@ -25,8 +25,8 @@ Le corpus provient de deux publications de l’Insee :
 - - insee_premiere.csv
 - **Insee Analyse** (2010–2025) : publications courtes et documents de travail
 - - insee_analyse.csv
-    
-Les données accessibles sur le github sont tronquées par rapport aux données complétes faute de place disponible sur github.
+
+Les données sont dans le fichier zip [contents](https://github.com/PaulD10/PESSD-/blob/main/contents.zip).
 
 Chaque publication contient :
 - Texte complet
