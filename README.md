@@ -22,9 +22,9 @@ Grâce à des techniques avancées de **traitement automatique du langage nature
 Le corpus provient de deux publications de l’Insee :
 
 - **Insee Première** (2011–2025) : publications courtes sur des sujets d’actualité
-- - insee_premiere.csv
+ - insee_premiere.csv
 - **Insee Analyse** (2010–2025) : publications courtes et documents de travail
-- - insee_analyse.csv
+ - insee_analyse.csv
 
 Les données sont dans le fichier zip [contents](https://github.com/PaulD10/PESSD-/blob/main/contents.zip).
 
